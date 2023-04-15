@@ -4,7 +4,7 @@
 ```
 select * from data_mhs;
 ```
-
+![foto1](foto/ss1.png)
 
 2. Ubah data tanggal lahir mahasiswa yang bernama Ari menjadi: 1979-08-31 !
 ```
