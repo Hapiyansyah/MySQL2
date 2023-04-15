@@ -1,5 +1,8 @@
 # PRAKTIKUM 2
 
+
+![foto0](foto/ss0.png)
+
 1. Tampilkan semua isi / record tabel !
 ```
 select * from data_mhs;
