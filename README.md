@@ -3,7 +3,7 @@
 ### praktikum 2.1
 1. buatlah DDL Script berdasarkan E-RD diatas!
 
-script berada di folder.
+   script berada di folder.
 
 2. jalankan script tersebut pada DBMS MySQL !
 
