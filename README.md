@@ -21,7 +21,7 @@
 
 4. Tabel krsmahasiswa
 
-![foto3](foto/S3.png
+![foto3](foto/S3.png)
 
 5. Tabel jadwalmengajar
 
