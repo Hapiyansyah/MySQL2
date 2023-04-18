@@ -60,6 +60,7 @@ select * from data_mhs order by nama ASC;
 ## Evaluasi dan Pertanyaan
 
 1. Apa bedanya penggunaan BETWEEN dan penggunaan operator >= dan <= ?
+
 • misal : tgl_lahir BETWEEN '1991-11-1' AND '1992-04-01'.
 • misal : tgl_lahir >= '1991-11-1' AND tgl_lahir <= '1992-04-01'.
 
