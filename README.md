@@ -9,7 +9,7 @@
 
 1. Tabel mahasiswa
 
-![foto0](foto/ss0.png)
+!
 
 2. Tabel dosen
 
