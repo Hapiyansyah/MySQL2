@@ -1,8 +1,17 @@
 # PRAKTIKUM 2
 
 ## praktikum 2.1
-   Buatlah DDL Script berdasarkan E-RD diatas dan
-   jalankan script tersebut pada DBMS MySQL !
+1. Mahasiswa(nim, nama, jenis_kelamin, tgl_lahir, jalan, kota, kodepos, no_hp, kd_ds)
+
+2. Dosen(kd_ds, nama)
+
+3. Matakuliah(kd_mk,nama,sks)
+
+4. Jadwalmengajar(kd_ds, kd_mk, hari, jam, ruang)
+
+5. KRSmahasiswa(nim, kd_mk, kd_ds, semester, nilai)
+
+Buatlah DDL Script berdasarkan E-RD diatas dan jalankan script tersebut pada DBMS MySQL !
 
    -script ada di folder
    
