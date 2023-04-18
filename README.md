@@ -1,12 +1,11 @@
 # PRAKTIKUM 2
 
-### praktikum 2.1
+## praktikum 2.1
    Buatlah DDL Script berdasarkan E-RD diatas!
-
-   script berada di folder.
-
    Jalankan script tersebut pada DBMS MySQL !
 
+   -script ada di folder
+   
 1. Tabel mahasiswa
 
 ![foto0](foto/S0.png)
@@ -27,7 +26,7 @@
 
 ![foto4](foto/S4.png)
 
-### praktikum 2.2
+## praktikum 2.2
 1. Tampilkan semua isi / record tabel !
 ```
 select * from data_mhs;
