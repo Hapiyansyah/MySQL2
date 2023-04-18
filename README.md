@@ -1,8 +1,8 @@
 # PRAKTIKUM 2
 
 ## praktikum 2.1
-   Buatlah DDL Script berdasarkan E-RD diatas!
-   Jalankan script tersebut pada DBMS MySQL !
+   Buatlah DDL Script berdasarkan E-RD diatas dan
+   jalankan script tersebut pada DBMS MySQL !
 
    -script ada di folder
    
