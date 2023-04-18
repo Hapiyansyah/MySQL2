@@ -1,11 +1,31 @@
 # PRAKTIKUM 2
 
 ### praktikum 2.1
-1. buatlah DDL Script berdasarkan E-RD diatas!
+   Buatlah DDL Script berdasarkan E-RD diatas!
 
    script berada di folder.
 
-2. jalankan script tersebut pada DBMS MySQL !
+   Jalankan script tersebut pada DBMS MySQL !
+
+1. Tabel mahasiswa
+
+![foto0](foto/ss0.png)
+
+2. Tabel dosen
+
+![foto1](foto/S1.png)
+
+3. Tabel matakuliah
+
+![foto2](foto/S2.png)
+
+4. Tabel krsmahasiswa
+
+![foto3](foto/S3.png
+
+5. Tabel jadwalmengajar
+
+![foto4](foto/S4.png)
 
 ### praktikum 2.2
 1. Tampilkan semua isi / record tabel !
