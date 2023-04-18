@@ -62,6 +62,7 @@ select * from data_mhs order by nama ASC;
 1. Apa bedanya penggunaan BETWEEN dan penggunaan operator >= dan <= ?
 
 • misal : tgl_lahir BETWEEN '1991-11-1' AND '1992-04-01'.
+
 • misal : tgl_lahir >= '1991-11-1' AND tgl_lahir <= '1992-04-01'.
 
 Kedua pernyataan tersebut memiliki makna yang sama, yaitu mencari data yang memiliki nilai tanggal lahir '1991-11-1' dan '1992-04-01'. Perbedaan hanya terletak pada sintaks penggunaanya. Penggunaan BETWEEN lebih mudah dibaca dan ditulis, sedangkan penggunaan operator >= dan <= lebih fleksibel karena dapat digunakan untuk membandingkan nilai selain tanggal.
