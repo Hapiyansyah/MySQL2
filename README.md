@@ -1,6 +1,12 @@
 # PRAKTIKUM 2
 
+### praktikum 2.1
+1. buatlah DDL Script berdasarkan E-RD diatas!
+script ada di folder.
 
+2. jalankan script tersebut pada DBMS MySQL !
+
+### praktikum 2.2
 1. Tampilkan semua isi / record tabel !
 ```
 select * from data_mhs;
