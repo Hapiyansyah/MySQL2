@@ -1,37 +1,28 @@
 # PRAKTIKUM 2
 
 ## praktikum 2.1
-1. Mahasiswa(nim, nama, jenis_kelamin, tgl_lahir, jalan, kota, kodepos, no_hp, kd_ds)
 
-2. Dosen(kd_ds, nama)
-
-3. Matakuliah(kd_mk,nama,sks)
-
-4. Jadwalmengajar(kd_ds, kd_mk, hari, jam, ruang)
-
-5. KRSmahasiswa(nim, kd_mk, kd_ds, semester, nilai)
-
-Buatlah DDL Script berdasarkan E-RD diatas dan jalankan script tersebut pada DBMS MySQL !
+Buatlah DDL Script berdasarkan skema E-RD dan jalankan script tersebut pada DBMS MySQL !
 
    - SCRIPT ADA DI FOLDER 
    
-1. Tabel mahasiswa
+1. Tabel mahasiswa (nim, nama, jenis_kelamin, tgl_lahir, jalan, kota, kodepos, no_hp, kd_ds)
 
 ![foto0](foto/S0.png)
 
-2. Tabel dosen
+2. Tabel dosen (kd_ds, nama)
 
 ![foto1](foto/S1.png)
 
-3. Tabel matakuliah
+3. Tabel matakuliah (kd_mk, nama, SKS)
 
 ![foto2](foto/S2.png)
 
-4. Tabel krsmahasiswa
+4. Tabel krsmahasiswa (kd_ds, kd_mk, hari, jam, ruang)
 
 ![foto3](foto/S3.png)
 
-5. Tabel jadwalmengajar
+5. Tabel jadwalmengajar (nim, kd_mk, kd_ds, semester, nilai)
 
 ![foto4](foto/S4.png)
 
